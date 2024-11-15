@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\sis457\\DonkeyKong_L02SingleANDFactoryANDFacade\\DonkeyKong_L02SingleANDFactoryANDFacade\\DonkeyKong_L02parcial\\Source\\DonkeyKong_L02\\DonkeyKong_L02.Build.cs",
+		"D:\\sis457\\DonkeyKong_L02SingleANDFactoryANDFacade\\DonkeyKong_L02SingleANDFactoryANDFacade\\DonkeyKong_L02parcial\\Source\\DonkeyKong_L02.Target.cs",
+		"D:\\sis457\\DonkeyKong_L02SingleANDFactoryANDFacade\\DonkeyKong_L02SingleANDFactoryANDFacade\\DonkeyKong_L02parcial\\Source\\DonkeyKong_L02Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

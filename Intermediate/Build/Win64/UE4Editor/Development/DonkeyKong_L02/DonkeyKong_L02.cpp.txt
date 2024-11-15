@@ -1,0 +1,2 @@
+D:\sis457\DonkeyKong_L02SingleANDFactoryANDFacade\DonkeyKong_L02SingleANDFactoryANDFacade\DonkeyKong_L02parcial\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L02\Definitions.DonkeyKong_L02.h
+D:\sis457\DonkeyKong_L02SingleANDFactoryANDFacade\DonkeyKong_L02SingleANDFactoryANDFacade\DonkeyKong_L02parcial\Source\DonkeyKong_L02\DonkeyKong_L02.h
